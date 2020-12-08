@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+.date {
+  text-align: right;
+}
+
+.date-label {
+  text-align: left;
+}
+
+.title {
+  margin-top: 10vh;
+  margin-bottom: 5vh;
+}
